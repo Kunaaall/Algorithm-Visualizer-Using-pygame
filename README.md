@@ -31,14 +31,14 @@ This screen contain name of all nine Algorithms , Set and resset button and also
 For example if you want to Select Bubble Sort You havve to Press (B) and For Ascending (A) and then press SPACE.
 Now visualization will be start for the Random Data.
 In these video clips you can see the GUI
-## Tools used 
+## Tools, Technologies and Software used 
 
 1. Python 
 2. Visual Studio
 3. pygame
 4. Github
 5. Canva 
-6. Youtube
+6. Youtube //Youtube is not a tool
 
 # Visualization of Algorithms
 https://youtu.be/OTWB07hUS1U
